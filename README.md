@@ -1,4 +1,5 @@
 # Password Upload Utility v2
+_Written by kmross_
 
 [![CyberArk Ready](https://img.shields.io/badge/CyberArk-ready-blue.svg)](https://www.cyberark.com)[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)[![license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://opensource.org/licenses/mit-license.php)[![GitHub forks](https://img.shields.io/github/forks/badges/shields.svg?style=social&label=Fork)](https://github.com/infamousjoeg/PasswordUploadUtility-v2/fork)[![GitHub stars](https://img.shields.io/github/stars/badges/shields.svg?style=social&label=Star)](https://github.com/infamousjoeg/PasswordUploadUtility-v2)[![GitHub watchers](https://img.shields.io/github/watchers/badges/shields.svg?style=social&label=Watch)](https://github.com/infamousjoeg/PasswordUploadUtility-v2/subscription)[![GitHub followers](https://img.shields.io/github/followers/espadrine.svg?style=social&label=Follow)](https://github.com/kmross)
 
@@ -16,7 +17,7 @@ Open _passwords.csv_ and begin adding your account information.
 
 Start > Run....Oh wait...its Linux...just open a terminal```
 
-```cd``` to the directory _PasswordUploadUtility-v2-bash.sh_ is located.
+```cd``` to the directory _puu2.sh_ is located.
 
 ```.\puu2.sh```
 
