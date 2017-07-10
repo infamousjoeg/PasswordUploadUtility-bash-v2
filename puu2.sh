@@ -19,7 +19,8 @@
 #               Safe Verification
 #               Platform Verification
 #               Error Handling Everywhere in the script
-#               EParse logs from curl for error checking
+#               Parse logs from curl for error checking
+#               Add logging to file
 #
 #########################################################################
 
@@ -51,6 +52,7 @@ printf "\n\n"
 read -p "Enter the CyberArk URL (ie: https://components.cyberark.local) : " CAURL
 read -p "Enter Your Name: " CAUsername
 read -s -p "Enter Password: " CAPass
+printf "\n"
 read -p "Enter the path of the CSV file (ie: /home/user/cyberark.csv): " INPUT
 
 printf "\n"
