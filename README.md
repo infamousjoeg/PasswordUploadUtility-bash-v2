@@ -9,7 +9,7 @@ Updated Password Upload Utility utilizing the REST API instead of an outdated an
 
 Thank you for attending the **REST for the Rest of Us** breakout session!
 
-Love Windows?  We do, too!  [PUU 2 for PowerShell](https://git.joeco.de/PasswordUploadUtility-v2)
+Love Windows?  We do, too!  [PUU 2 for PowerShell](http://git.joeco.de/PasswordUploadUtility-v2)
 
 ## Usage
 
