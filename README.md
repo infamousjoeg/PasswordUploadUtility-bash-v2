@@ -9,6 +9,8 @@ Updated Password Upload Utility utilizing the REST API instead of an outdated an
 
 Thank you for attending the **REST for the Rest of Us** breakout session!
 
+Did you miss my awesome presentation?  [Check it out on SlideShare!](https://www.slideshare.net/JoeGarciaCISSP/cyberark-impact-2017-rest-for-the-rest-of-us)
+
 Love Windows?  We do, too!  [PUU 2 for PowerShell](http://git.joeco.de/PasswordUploadUtility-v2)
 
 ## Usage
