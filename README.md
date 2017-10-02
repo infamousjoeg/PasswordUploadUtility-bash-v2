@@ -5,7 +5,7 @@ _Written by Kevin Ross_
 **_This is not supported by CyberArk.  It is an open source community project._**
 
 [![CyberArk Ready](https://img.shields.io/badge/CyberArk-ready-blue.svg)](https://www.cyberark.com)[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/infamousjoeg/PasswordUploadUtility-v2/master/LICENSE.md)
-[![GitHub issues](https://img.shields.io/github/issues/infamousjoeg/PasswordUploadUtility-v2.svg)](https://github.com/infamousjoeg/PasswordUploadUtility-v2/issues)[![GitHub stars](https://img.shields.io/github/stars/infamousjoeg/PasswordUploadUtility-v2.svg)](https://github.com/infamousjoeg/PasswordUploadUtility-v2/stargazers)
+[![GitHub issues](https://img.shields.io/github/issues/infamousjoeg/PasswordUploadUtility-bash-v2.svg)](https://github.com/infamousjoeg/PasswordUploadUtility-bash-v2/issues)[![GitHub stars](https://img.shields.io/github/stars/infamousjoeg/PasswordUploadUtility-bash-v2.svg)](https://github.com/infamousjoeg/PasswordUploadUtility-bash-v2/stargazers)
 
 Updated Password Upload Utility utilizing the REST API instead of an outdated and restricted version of PACLI.
 
